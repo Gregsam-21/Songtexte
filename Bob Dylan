@@ -1,0 +1,20 @@
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Gregsam-21/Songtexte.git
+git push -u origin master
+
+Like a Rolling Stone Songtext
+Once upon a time you dressed so fine
+Threw the bums a dime in your prime, didn't you?
+People call say 'beware doll, you're bound to fall'
+You thought they were all kidding you
+You used to laugh about
+Everybody that was hanging out
+Now you don't talk so loud
+Now you don't seem so proud
+About having to be scrounging your next meal
+
+How does it feel, how does it feel?
+To be without a home
+Like a complete unknown, like a rolling stone
